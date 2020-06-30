@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenusApplication</string>
+    <string name="new_game">New game</string>
+    <string name="help">Help</string>
+</resources>
